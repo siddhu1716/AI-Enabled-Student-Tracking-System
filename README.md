@@ -1,1 +1,1 @@
-# AI-Enabled-Student-Tracking-System
+# An-AI-Based-Student-Tracking-System
