@@ -50,14 +50,6 @@ The original YOLOv8 model can be found in this repository: [YOLOv8 Repository](h
  python webcam_object_detection.py
  ```
 
- * **Video inference**: https://youtu.be/JShJpg8Mf7M
- ```shell
- python video_object_detection.py
- ```
-
- ![!YOLOv8 detection video](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection/raw/main/doc/img/yolov8_video.gif)
-
-  *Original video: [https://youtu.be/Snyg0RqpVxY](https://youtu.be/Snyg0RqpVxY)*
 
 # References:
 * YOLOv8 model: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
