@@ -31,30 +31,3 @@ from ultralytics import YOLO
 model = YOLO("yolov8m.pt") 
 model.export(format="onnx", imgsz=[480,640])
 ```
-
-[//]: # (The original models were converted to different formats &#40;including .onnx&#41; by [PINTO0309]&#40;https://github.com/PINTO0309&#41;. Download the models from **[his repository]**&#40;https://github.com/PINTO0309/PINTO_model_zoo/tree/main/345_YOLOv8&#41;. For that, you can either run the `download_single_batch.sh` or copy the download link inside that script in your browser to manually download the file. Then, extract and copy the downloaded onnx models &#40;for example `yolov8m_480x640.onnx`&#41; to your **[models directory]&#40;https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection/tree/main/models&#41;**, and fix the file name in the python scripts accordingly.)
-
-# Original YOLOv8 model
-The original YOLOv8 model can be found in this repository: [YOLOv8 Repository](https://github.com/ultralytics/ultralytics)
-- The License of the models is GPL-3.0 license: [License](https://github.com/ultralytics/ultralytics/blob/main/LICENSE)
-
-# Examples
-
- * **Image inference**:
- ```shell
- python image_object_detection.py
- ```
-
- * **Webcam inference**:
- ```shell
- python webcam_object_detection.py
- ```
-
-
-# References:
-* YOLOv8 model: [https://github.com/ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
-* YOLOv5 model: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
-* YOLOv6 model: [https://github.com/meituan/YOLOv6](https://github.com/meituan/YOLOv6)
-* YOLOv7 model: [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
-* PINTO0309's model zoo: [https://github.com/PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
-* PINTO0309's model conversion tool: [https://github.com/PINTO0309/openvino2tensorflow](https://github.com/PINTO0309/openvino2tensorflow)
