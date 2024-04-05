@@ -15,7 +15,7 @@ This repository contains the submission for our project by Nampalli Shiva Kumar 
 
 ### Submitted By
 
-- **Name:** Nampalli Shiva Kumar (Team-11)
+- **Name:** Team-11
 - **Program:** B. Tech CSE - AIML
 - **Institution:** MLR Institute of Technology
 - **Contact:** 
