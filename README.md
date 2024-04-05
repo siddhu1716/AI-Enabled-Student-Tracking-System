@@ -4,11 +4,14 @@
 
 we have chosen the problem statement of An AI-Based Student Tracking System To Monitor His/Her Behaviour
 
-![plot](https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/attendance.png)
+<img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/attendance.png" width="500" height="300"> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/violence1.png" width='500' height='300'> 
+<img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/Screenshot%202024-03-21%20at%2016.45.15.png" width='500' height='300'> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/vamsi_phone.png" width='500' height='300'>
+
+
 
 Recognizing student behavior and ensuring their safety is crucial to improving the quality of teaching. Although many algorithms identify these behaviors, the results are not very accurate or efficient and mainly focus on single objects. As time has passed, new techniques have evolved recently. Object detection is gaining popularity in the field of computer vision, which also detects small objects efficiently, has better detection performance, and can effectively deal with the behavior recognition of many students. Various studies have been conducted to improve accuracy. The latest technique is YOLO v8, and when compared with other YOLO techniques, the center of an object is predicted directly instead of being offset from a known anchor box. It also introduces a more optimized network architecture and loss function
 
-This repository contains the submission for our project by Nampalli Shiva Kumar and Team, a B. Tech CSE - AIML student from MLR Institute of Technology. The project encompasses solution to problems demonstrating proficiency in machine learning and computer vision.
+This repository contains the submission for our project by Nampalli Shiva Kumar and Team, a B. Tech CSE - AIML student from MLR Institute of Technology. The project encompasses solutions to problems demonstrating proficiency in machine learning and computer vision.
 
 ### Submitted By
 
