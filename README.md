@@ -2,13 +2,13 @@
 
 ## Overview
 
-I have chosen the computer vision task i.e Task-2
+we have chosen the problem statement of An AI-Based Student Tracking System To Monitor His/Her Behaviour
 
-This repository contains the submission for the Precog-2024 recruitment task by Nampalli Shiva Kumar, a B. Tech CSE - AIML student from MLR Institute of Technology. The project encompasses solutions to three task-specific questions demonstrating proficiency in machine learning and computer vision.
+This repository contains the submission for our project by Nampalli Shiva Kumar and Team, a B. Tech CSE - AIML student from MLR Institute of Technology. The project encompasses solution to problems demonstrating proficiency in machine learning and computer vision.
 
 ### Submitted By
 
-- **Name:** Nampalli Shiva Kumar
+- **Name:** Nampalli Shiva Kumar (Team-11)
 - **Program:** B. Tech CSE - AIML
 - **Institution:** MLR Institute of Technology
 - **Contact:** 
