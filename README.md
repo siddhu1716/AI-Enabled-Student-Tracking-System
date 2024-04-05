@@ -4,8 +4,8 @@
 
 we have chosen the problem statement of An AI-Based Student Tracking System To Monitor His/Her Behaviour
 
-<img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/attendance.png" width="500" height="300"> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/violence1.png" width='500' height='300'> 
-<img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/Screenshot%202024-03-21%20at%2016.45.15.png" width='500' height='300'> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/vamsi_phone.png" width='500' height='300'>
+<img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/attendance.png" width="400" height="200"> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/violence1.png" width='400' height='200'> 
+<img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/Screenshot%202024-03-21%20at%2016.45.15.png" width='400' height='200'> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/vamsi_phone.png" width='400' height='200'>
 
 
 
