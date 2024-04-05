@@ -29,19 +29,33 @@ This repository contains the submission for our project by Nampalli Shiva Kumar 
 The project extensively utilizes the following libraries:
 
 1.click==8.1.7
+
 2.coloredlogs==15.0.1
+
 3.dlib==19.24.2
+
 4.face-recognition==1.3.0
+
 5.face-recognition-models==0.3.0
+
 6.flatbuffers==23.5.26
+
 7.humanfriendly==10.0
+
 8.mpmath==1.3.0
+
 9.numpy==1.26.3
+
 10.onnxruntime==1.16.3
+
 11.opencv-python==4.9.0.80
+
 12.packaging==23.2
+
 13.pillow==10.2.0
+
 14.protobuf==4.25.1
+
 15.sympy==1.12
 
 ## How to Run Locally
