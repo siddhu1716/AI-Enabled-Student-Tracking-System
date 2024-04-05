@@ -8,9 +8,9 @@ from datetime import datetime
 import imutils as im
 from twilio.rest import Client
 
-account_sid='AC8836dfeb51a6f5ea7f0b97cf4e7b2696'
+account_sid='Your account SID'
 
-auth_token = 'ade6965347c16992392b4af33c216e2d'
+auth_token = 'Your AUTH Token'
 
 twilio_phone_number = 'whatsapp:+14155238886'
 
