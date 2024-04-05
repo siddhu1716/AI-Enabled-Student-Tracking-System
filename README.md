@@ -65,11 +65,11 @@ To run this project on your local machine, follow these steps:
 1. Clone the project repository:
 
    ```bash
-   git clone [https://link-to-project](https://github.com/siddhu1716/Precog_Submission.git)
+   git clone [(https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System.git)]
 2. Go to the project directory
 
 ```bash
-  cd Precog-Submission
+  cd /AI-Enabled-Student-Tracking-System
 ```
 
 3. Install Requirements
@@ -77,7 +77,7 @@ To run this project on your local machine, follow these steps:
 ```bash
   pip3 install -r requirements.txt
 ```
-Keep going into different task folders and run the ipynb notebooks
+Keep going into task folders and run the training.ipynb notebooks
 
 ## Contributing
 
