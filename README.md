@@ -86,6 +86,31 @@ To run this project on your local machine, follow these steps:
 ```
 Keep going into task folders and run the training.ipynb notebooks
 
+
+SYSTEM REQUIREMENTS
+
+SOFTWARE REQUIREMENTS
+
+Below are the software requirements:
+
+	1. Python (version 3.x recommended)
+	2. Twilio module
+	3. Label Img / Roboflow
+	4. OpenCV
+	5.Face Recognition Module
+	6.YOLOv8
+	7. dlib library
+	8. ONNX runtime library
+	9. pillow library
+	10. Ultralytics
+
+HARDWARE REQUIREMENTS
+
+Hardware requirements for successful development and implementation are as follows:
+1. Raspberry Pi
+2. IP enabled Camera
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
