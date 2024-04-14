@@ -87,7 +87,7 @@ To run this project on your local machine, follow these steps:
 Keep going into task folders and run the training.ipynb notebooks
 
 
-SYSTEM REQUIREMENTS
+## SYSTEM REQUIREMENTS
 
 SOFTWARE REQUIREMENTS
 
