@@ -4,6 +4,8 @@
 
 we have chosen the problem statement of An AI-Based Student Tracking System To Monitor His/Her Behaviour
 
+Outputs from the model:
+
 <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/attendance.png" width="400" height="200"> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/violence1.png" width='400' height='200'> 
 <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/Screenshot%202024-03-21%20at%2016.45.15.png" width='400' height='200'> <img src="https://github.com/siddhu1716/AI-Enabled-Student-Tracking-System/blob/main/Realtime_outputs/vamsi_phone.png" width='400' height='200'>
 
@@ -24,11 +26,11 @@ This repository contains the submission for our project by Nampalli Shiva Kumar 
 
 ## Directory Structure of Submission
 
-1. Image Attendance Contains Images of individual students to be trained for attendance purpose
-2. In Models folder it contain the YOLO onnx format model.
-3. The weights file consists of the best weights which are observed in training for different datasets on various parameters
-4. Outputs contains the model outputs which are omitted after predicting
-5. Remaining outputs like PR curve , confusion metrics , results table and all ae from YOLO
+1. Image Attendance Contains Images of individual students to be trained for attendance purposes
+2. In the Models folder it contains the YOLO onnx format model.
+3. The weights file consists of the best weights that are observed in training for different datasets on various parameters
+4. Outputs contain the model outputs which are omitted after predicting
+5. Remaining outputs like PR curve, confusion metrics, results table, and all are from YOLO
    
 
 ## Libraries Used
@@ -93,11 +95,11 @@ SOFTWARE REQUIREMENTS
 
 Below are the software requirements:
 
-	1. Python (version 3.x recommended)
+	1. Python (version 3. x recommended)
 	2. Twilio module
 	3. Label Img / Roboflow
 	4. OpenCV
-	5.Face Recognition Module
+	5. Face Recognition Module
 	6.YOLOv8
 	7. dlib library
 	8. ONNX runtime library
@@ -108,7 +110,7 @@ HARDWARE REQUIREMENTS
 
 Hardware requirements for successful development and implementation are as follows:
 1. Raspberry Pi
-2. IP enabled Camera
+2. IP-enabled Camera
 
 
 ## Contributing
